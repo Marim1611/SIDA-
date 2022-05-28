@@ -1,5 +1,5 @@
 # SIDA app
-SIDA is a ride-hailing app implemneted using flutter and firebase.
+SIDA is a ride-hailing app developed using flutter and firebase.
 
 ![image](https://user-images.githubusercontent.com/76243256/170823099-f7b28881-8e07-47d2-9a90-262d1c7fb9ca.png)
 
